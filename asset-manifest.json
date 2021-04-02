@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://vsavaryn.github.io/react-okta-test/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "https://vsavaryn.github.io/react-okta-test/static/js/main.c25af891.chunk.js",
-    "main.js.map": "https://vsavaryn.github.io/react-okta-test/static/js/main.c25af891.chunk.js.map",
+    "main.js": "https://vsavaryn.github.io/react-okta-test/static/js/main.54cc2836.chunk.js",
+    "main.js.map": "https://vsavaryn.github.io/react-okta-test/static/js/main.54cc2836.chunk.js.map",
     "runtime-main.js": "https://vsavaryn.github.io/react-okta-test/static/js/runtime-main.fd05e189.js",
     "runtime-main.js.map": "https://vsavaryn.github.io/react-okta-test/static/js/runtime-main.fd05e189.js.map",
     "static/css/2.437c8872.chunk.css": "https://vsavaryn.github.io/react-okta-test/static/css/2.437c8872.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.437c8872.chunk.css",
     "static/js/2.f4f11b61.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.c25af891.chunk.js"
+    "static/js/main.54cc2836.chunk.js"
   ]
 }
