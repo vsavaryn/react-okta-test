@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-okta-test/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-okta-test/static/js/main.0c35415d.chunk.js",
-    "main.js.map": "/react-okta-test/static/js/main.0c35415d.chunk.js.map",
-    "runtime-main.js": "/react-okta-test/static/js/runtime-main.ccd3eb56.js",
-    "runtime-main.js.map": "/react-okta-test/static/js/runtime-main.ccd3eb56.js.map",
-    "static/css/2.d58e1bf1.chunk.css": "/react-okta-test/static/css/2.d58e1bf1.chunk.css",
-    "static/js/2.83c5381b.chunk.js": "/react-okta-test/static/js/2.83c5381b.chunk.js",
-    "static/js/2.83c5381b.chunk.js.map": "/react-okta-test/static/js/2.83c5381b.chunk.js.map",
-    "index.html": "/react-okta-test/index.html",
-    "static/css/2.d58e1bf1.chunk.css.map": "/react-okta-test/static/css/2.d58e1bf1.chunk.css.map",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-okta-test/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.83c5381b.chunk.js.LICENSE.txt": "/react-okta-test/static/js/2.83c5381b.chunk.js.LICENSE.txt",
-    "static/media/okta-sign-in.min.css": "/react-okta-test/static/media/yubikeyDemo.5ebed9d6.png"
+    "main.css": "./static/css/main.9d5b29c0.chunk.css",
+    "main.js": "./static/js/main.0c35415d.chunk.js",
+    "main.js.map": "./static/js/main.0c35415d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.64707c64.js",
+    "runtime-main.js.map": "./static/js/runtime-main.64707c64.js.map",
+    "static/css/2.6d68f750.chunk.css": "./static/css/2.6d68f750.chunk.css",
+    "static/js/2.d7ba6edc.chunk.js": "./static/js/2.d7ba6edc.chunk.js",
+    "static/js/2.d7ba6edc.chunk.js.map": "./static/js/2.d7ba6edc.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.6d68f750.chunk.css.map": "./static/css/2.6d68f750.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "./static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d7ba6edc.chunk.js.LICENSE.txt": "./static/js/2.d7ba6edc.chunk.js.LICENSE.txt",
+    "static/media/okta-sign-in.min.css": "./static/media/yubikeyDemo.5ebed9d6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccd3eb56.js",
-    "static/css/2.d58e1bf1.chunk.css",
-    "static/js/2.83c5381b.chunk.js",
+    "static/js/runtime-main.64707c64.js",
+    "static/css/2.6d68f750.chunk.css",
+    "static/js/2.d7ba6edc.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.0c35415d.chunk.js"
   ]
