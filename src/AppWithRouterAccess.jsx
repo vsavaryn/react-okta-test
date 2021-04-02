@@ -2,9 +2,9 @@ import React from "react";
 import { Route, useHistory, Switch } from "react-router-dom";
 import { Security, SecureRoute, LoginCallback } from "@okta/okta-react";
 import { OktaAuth, toRelativeUrl } from "@okta/okta-auth-js";
-import Home from "./Home";
-import Login from "./Login";
-import Protected from "./Protected";
+import Home from "./components/Home";
+import Login from "./components/Login";
+import Protected from "./components/Protected";
 import { oktaAuthConfig, oktaSignInConfig } from "./config";
 
 const oktaAuth = new OktaAuth(oktaAuthConfig);
@@ -17,7 +17,7 @@ const AppWithRouterAccess = () => {
   };
 
   const restoreOriginalUri = async (_oktaAuth, originalUri) => {
-    window.history.replace(toRelativeUrl(originalUri, window.location.origin));
+    history.replace(toRelativeUrl(originalUri, window.location.origin));
   };
 
   return (
