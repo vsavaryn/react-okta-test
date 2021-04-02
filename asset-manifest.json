@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "https://vsavaryn.github.io/react-okta-test/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "https://vsavaryn.github.io/react-okta-test/static/js/main.09297b34.chunk.js",
-    "main.js.map": "https://vsavaryn.github.io/react-okta-test/static/js/main.09297b34.chunk.js.map",
-    "runtime-main.js": "https://vsavaryn.github.io/react-okta-test/static/js/runtime-main.fd05e189.js",
-    "runtime-main.js.map": "https://vsavaryn.github.io/react-okta-test/static/js/runtime-main.fd05e189.js.map",
-    "static/css/2.437c8872.chunk.css": "https://vsavaryn.github.io/react-okta-test/static/css/2.437c8872.chunk.css",
-    "static/js/2.f4f11b61.chunk.js": "https://vsavaryn.github.io/react-okta-test/static/js/2.f4f11b61.chunk.js",
-    "static/js/2.f4f11b61.chunk.js.map": "https://vsavaryn.github.io/react-okta-test/static/js/2.f4f11b61.chunk.js.map",
-    "index.html": "https://vsavaryn.github.io/react-okta-test/index.html",
-    "static/css/2.437c8872.chunk.css.map": "https://vsavaryn.github.io/react-okta-test/static/css/2.437c8872.chunk.css.map",
-    "static/css/main.9d5b29c0.chunk.css.map": "https://vsavaryn.github.io/react-okta-test/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f4f11b61.chunk.js.LICENSE.txt": "https://vsavaryn.github.io/react-okta-test/static/js/2.f4f11b61.chunk.js.LICENSE.txt",
-    "static/media/okta-sign-in.min.css": "https://vsavaryn.github.io/react-okta-test/static/media/yubikeyDemo.5ebed9d6.png"
+    "main.css": "./react-okta-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "./react-okta-test/static/js/main.71241895.chunk.js",
+    "main.js.map": "./react-okta-test/static/js/main.71241895.chunk.js.map",
+    "runtime-main.js": "./react-okta-test/static/js/runtime-main.e739b1ad.js",
+    "runtime-main.js.map": "./react-okta-test/static/js/runtime-main.e739b1ad.js.map",
+    "static/css/2.6d68f750.chunk.css": "./react-okta-test/static/css/2.6d68f750.chunk.css",
+    "static/js/2.9251e793.chunk.js": "./react-okta-test/static/js/2.9251e793.chunk.js",
+    "static/js/2.9251e793.chunk.js.map": "./react-okta-test/static/js/2.9251e793.chunk.js.map",
+    "index.html": "./react-okta-test/index.html",
+    "static/css/2.6d68f750.chunk.css.map": "./react-okta-test/static/css/2.6d68f750.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "./react-okta-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9251e793.chunk.js.LICENSE.txt": "./react-okta-test/static/js/2.9251e793.chunk.js.LICENSE.txt",
+    "static/media/okta-sign-in.min.css": "./react-okta-test/static/media/yubikeyDemo.5ebed9d6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd05e189.js",
-    "static/css/2.437c8872.chunk.css",
-    "static/js/2.f4f11b61.chunk.js",
+    "static/js/runtime-main.e739b1ad.js",
+    "static/css/2.6d68f750.chunk.css",
+    "static/js/2.9251e793.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.09297b34.chunk.js"
+    "static/js/main.71241895.chunk.js"
   ]
 }
